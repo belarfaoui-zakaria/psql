@@ -6,8 +6,8 @@
 Ce document contient les étapes que j’ai suivis lors de la realisation de ce projet, il s'agit d'un mini-projet qui représente la gestion d'une médiathèque.
 À l'aide de language PL-SQL on a pu réaliser ce projet qui permet en premier temps de faire un modele relationnel et puis faire un modele OBJET pour gérer les différents composants, et communiquer entre eux.
 
-- [Partie 1: Model Conceptuel de donnees](#requirements)
-  - [MCD](#ruby-and-rails)
+- [Partie 1: Model Conceptuel de donnees](#partie1)
+  - [MCD](#mcd)
 - [Partie 2]
   - [Organisation des fichiers et Ordre d'execution]
   - []
@@ -16,9 +16,6 @@ Ce document contient les étapes que j’ai suivis lors de la realisation de ce
 
 # partie 1
 ## MCD
-
-
-
 On a commencer par realiser le modèle conceptuel des données (MCD), c'est une représentation graphique et structurée des informations 
 
 ```SQL
